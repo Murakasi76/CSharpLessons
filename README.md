@@ -84,3 +84,39 @@ This project demonstrates how to process a block of text and store its structure
 
 
 
+📘 LessonMethods — Greeting with Methods
+
+Topic: Method declaration, input handling, and conditional logic
+
+This project demonstrates how to structure a simple console application using custom methods:
+
+\- Prompts the user to enter their name
+
+\- If the input is empty, defaults to "Anonymous"
+
+\- Generates a personalized greeting using a separate method
+
+\- Outputs the greeting to the console
+
+🔍 Key Concepts
+
+\- Method declaration and return values
+
+\- Input validation and null/empty checks
+
+\- Conditional logic with if
+
+\- Console interaction (Console.ReadLine, Console.WriteLine)
+
+▶️ How to Run
+
+\- Open the solution CSharpLessons in Visual Studio
+
+\- Set LessonMethods as the startup project
+
+\- Run the application (Ctrl + F5)
+
+\- Enter your name when prompted, or leave it blank to be greeted as "Anonymous"
+
+
+
