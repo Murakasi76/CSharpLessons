@@ -4,6 +4,10 @@
     {
         static void Main(string[] args)
         {
+            int fahrenheit = 94;
+
+            decimal celceuse = (fahrenheit - 32) * ((decimal)5 / 9);
+            Console.WriteLine("Celceuse = " + celceuse);
             string projectName = "ACMA";
 
             Console.WriteLine($@"C:\User\Projects\{projectName}\project.exe");
