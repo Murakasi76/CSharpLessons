@@ -48,3 +48,39 @@ This project demonstrates basic array operations in C#:
 
 
 
+📘 HW1 — Jagged Array Text Parser
+
+Topic: Jagged arrays and string manipulation
+
+This project demonstrates how to process a block of text and store its structure using jagged arrays:
+
+\- A hardcoded paragraph is split into sentences
+
+\- Each sentence is further split into words
+
+\- The result is stored in a jagged array: string\[]\[]
+
+\- All words from the last sentence are printed to the console
+
+🔍 Key Concepts
+
+\- string.Split() for sentence and word segmentation
+
+\- Jagged array declaration and initialization
+
+\- Iteration with foreach and indexing
+
+\- Basic text normalization and trimming
+
+▶️ How to Run
+
+\- Open the solution CSharpLessons in Visual Studio
+
+\- Set HW1 as the startup project
+
+\- Run the application (Ctrl + F5)
+
+\- Observe the sentence breakdown and word extraction in the console
+
+
+
