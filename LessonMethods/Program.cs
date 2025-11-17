@@ -4,6 +4,10 @@
     {
         static void Main(string[] args)
         {
+            string projectName = "ACMA";
+
+            Console.WriteLine($@"C:\User\Projects\{projectName}\project.exe");
+            Console.WriteLine("********************************");
             string userName = AskNameUser();
             string text = GreetingUser(userName);
             Console.WriteLine(text);
